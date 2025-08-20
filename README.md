@@ -29,5 +29,3 @@ Excel → Initial data cleaning
 
 Provides insights into customer behavior, product demand, and revenue trends.
 Helps retail businesses make data-driven strategic decisions.
-
-![Retail Sale Analysis Dashboard]("C:\Users\parsh\OneDrive\Pictures\RetailSales Analysis Dashboard.jpg")
